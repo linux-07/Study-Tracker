@@ -1,0 +1,9 @@
+build/
+dist/
+*.spec
+tracker_config.json
+*.pdf
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
